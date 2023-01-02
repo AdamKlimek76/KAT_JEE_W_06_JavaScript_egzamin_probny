@@ -36,7 +36,7 @@ Ponowne najechanie powinno zmienić kolor tła i znowu wyświetlić tekst.
 let randomColor = "#" + Math.floor(Math.random()*16777215).toString(16);
 ```
 
-Zadanie
+Zadanie3
 ---
 
 W tym zadaniu możecie używać eventu DOMContentLoaded.
@@ -44,7 +44,7 @@ W tym zadaniu możecie używać eventu DOMContentLoaded.
 Do wszystkich guzików znajdujących się na stronie dopiszcie event tak,   
 aby po naciśnięciu przycisku w divie o id container pojawił się tekst trzymany w data-text.
 
-Zadanie
+Zadanie4
 ---
 
 W tym zadaniu możecie używać eventu DOMContentLoaded.
@@ -56,7 +56,7 @@ Dopiszcie odpowiednią obsługę eventów tak, aby:
 - po kliknięciu przycisku drugiego z listy był usuwany ostatni element.
 - po kliknięciu przycisku trzeciego na końcu listy był dodawny nowy produkt, który jest klonem drugiego produktu - o ile ten istnieje.
 
-Zadanie
+Zadanie5
 ---
 
 Wasz sklep internetowy zajmuje się sprzedażą książek.   
@@ -90,7 +90,7 @@ Stwórzcie w odpowiednich klasach następujące metody:
 
 
 
-Zadanie
+Zadanie6
 ---
 
 Korzystając z adresu [https://swapi.dev/api/starships](https://swapi.dev/api/starships) wczytajcie na stronę informacje o statkach z Gwiezdnych Wojen. 
